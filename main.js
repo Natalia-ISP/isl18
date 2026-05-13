@@ -82,8 +82,26 @@
 // console.log(na);
 // ca = [5, 6, 7];
 
-const persons = {name: "nata", age: 18};
-persons.age = 50;
-persons.city = "vlg";
-console.log(persons);
+// const persons = {name: "nata", age: 18};
+// persons.age = 50;
+// persons.city = "vlg";
+// console.log(persons);
 // persons = {name: "stas"};
+
+// console.log(typeof "text");
+// console.log(typeof 42);
+// console.log(typeof true);
+// console.log(typeof undefined);
+// console.log(typeof null);
+// console.log(typeof {});
+// console.log(typeof []);
+// console.log(typeof function () {});
+
+let numx = null;
+console.log(numx === null);
+
+let newPrice;
+newPrice = 67;
+console.log(newPrice, typeof newPrice);
+newPrice = "сикссевен";
+console.log(newPrice, typeof newPrice);
