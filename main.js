@@ -144,3 +144,7 @@
 
 // console.log(obj1 === obj3)
 
+let a2 = 42;
+let b2 = 67;
+console.log(a2  + b2)
+console.log(a2  * b2)
